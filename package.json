@@ -4,7 +4,8 @@
   "description": "",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start-server": "node server.js",
+    "start-server-dev": "nodemon server.js"
   },
   "repository": {
     "type": "git",
@@ -26,5 +27,14 @@
   "bugs": {
     "url": "https://github.com/venus11000/share-my-thought-mern/issues"
   },
-  "homepage": "https://github.com/venus11000/share-my-thought-mern#readme"
+  "homepage": "https://github.com/venus11000/share-my-thought-mern#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "concurrently": "^4.1.1",
+    "express": "^4.17.1",
+    "mongoose": "^5.6.4"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  }
 }
