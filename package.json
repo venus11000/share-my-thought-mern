@@ -1,0 +1,30 @@
+{
+  "name": "share-my-thought-mern",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/venus11000/share-my-thought-mern.git"
+  },
+  "keywords": [
+    "React",
+    "Redux",
+    "Nodejs",
+    "Express",
+    "MongoDB",
+    "MERN",
+    "MERN",
+    "Stack",
+    "Application"
+  ],
+  "author": "Venugopal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/venus11000/share-my-thought-mern/issues"
+  },
+  "homepage": "https://github.com/venus11000/share-my-thought-mern#readme"
+}
